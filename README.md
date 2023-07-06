@@ -2,8 +2,12 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Jelaon%20Github!&fontSize=90" />	
 </div>
 <div align=center>
-	<h3>📚 Tech Stack 📚</h3>
-	<p>✨ Platforms & Languages ✨</p>
+	<h3>✋ Introduction</h3>
+	<p>안녕하세요!</p>
+	<p>열정 가득한 신입 개발자입니다🤗</p>
+</div>
+<div align=center>
+	<h3>✨ Skills</h3>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
@@ -18,8 +22,9 @@
 	<br>
 </div>
 <br>
+<br>
 <div align=center>
-	<p>🛠 Tools 🛠</p>
+	<h3>🛠 Tools</h3>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
