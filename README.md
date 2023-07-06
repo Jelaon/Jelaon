@@ -42,6 +42,6 @@
 	<h3>💪 Problem Solving</h3>
 </div>
 <div align=center>
-	[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=Jelaon)](https://solved.ac/Jelaon)<br/>
+	[Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=Jelaon)](https://solved.ac/Jelaon)<br/>
 </div>
 
