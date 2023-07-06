@@ -8,7 +8,6 @@
 </div>
 <br>
 <br>
-<br>
 <div align=center>
 	<h3>✨ Skills</h3>
 </div>
@@ -37,4 +36,12 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
 <br>
+<br>
+<br>
+<div align=center>
+	<h3>💪 Problem Solving</h3>
+</div>
+<div align=center>
+	[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=Jelaon)](https://solved.ac/Jelaon)<br/>
+</div>
 
