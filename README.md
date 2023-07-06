@@ -6,6 +6,9 @@
 	<p>안녕하세요!</p>
 	<p>열정 가득한 신입 개발자입니다🤗</p>
 </div>
+<br>
+<br>
+<br>
 <div align=center>
 	<h3>✨ Skills</h3>
 </div>
@@ -21,6 +24,7 @@
 	<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
 	<br>
 </div>
+<br>
 <br>
 <br>
 <div align=center>
