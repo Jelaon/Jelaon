@@ -38,8 +38,8 @@
 <br>
 <br>
 <br>
-<div align=center>
+<!--<div align=center>
 	<h3>💪 Problem Solving</h3>
 </div>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=syjang0312)](https://solved.ac/syjang0312)
-
+-->
